@@ -10,3 +10,5 @@ récupération d'une liste v
 Affichage de la liste v
 Affichage Ecran détail x
 Stockage de données en cache x
+
+https://raw.githubusercontent.com/hugoguignardchab/Pokedex_GUIGNARD/master/screen/screen.png
