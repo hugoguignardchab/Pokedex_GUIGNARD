@@ -15,6 +15,7 @@ Affichage de la liste v
 Affichage Ecran détail x
 
 Stockage de données en cache x
+
 utiliser GitHub v
 
 image de l'application:
